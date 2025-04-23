@@ -1,4 +1,4 @@
-Assignment-Fine-Tuning-a-Large-Language-Model-for-Text-Classification
+Assignment: Fine Tuning a Large Language Model for Text Classification
 ===============================================
 
 AUTHOR: Shubh Patel (002822971)
