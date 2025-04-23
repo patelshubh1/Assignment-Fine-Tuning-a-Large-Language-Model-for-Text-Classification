@@ -1,7 +1,7 @@
 Fine tuning LLM models for text classification
 ===============================================
 
-# AUTHOR: Shubh Patel
+**AUTHOR: Shubh Patel
 
 
 
