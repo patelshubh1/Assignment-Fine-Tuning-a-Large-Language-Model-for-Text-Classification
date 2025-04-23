@@ -1,7 +1,7 @@
-Fine tuning LLM models for text classification
+Assignment-Fine-Tuning-a-Large-Language-Model-for-Text-Classification
 ===============================================
 
-**AUTHOR: Shubh Patel
+AUTHOR: Shubh Patel (002822971)
 
 
 
